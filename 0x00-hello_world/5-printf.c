@@ -1,12 +1,15 @@
 #include <stdio.h>
 
 /**
-*main -entry point 
+* main - Entry point
 *
-*the function prints a string
+* This function is the entry point of the program.
+*
+* Return: Always 0
 */
+
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,");
+printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
 }
