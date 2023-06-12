@@ -1,1 +1,1 @@
-argv and argc for alx
+argv and argc
